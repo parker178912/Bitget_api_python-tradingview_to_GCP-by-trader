@@ -1,5 +1,5 @@
-## Bitget_api_python tradingview_to_heroku by trader
-`用python將tradingview的訊息打包後發送開平倉訊息至heroku雲端站台`
+## Bitget_api_python tradingview_to_GCP by trader
+`2022.12 將tradingview策略的訊號自動發送至bitget交易所`
  
 ### bitget 資料夾
 >裡面放了bitget預設的指令，若有需要可以在程式內利用import去提取
