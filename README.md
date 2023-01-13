@@ -1,4 +1,4 @@
-## Bitget_api_python tradingview_to_heroku by trader
+## Bitget_api_python tradingview_to_GCP by trader
 `2022.12 將tradingview策略的訊號自動發送至bitget交易所`
  
 ### bitget 資料夾
